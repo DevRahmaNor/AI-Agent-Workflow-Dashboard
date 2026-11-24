@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "inngest": "^4.26.2",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -20,7 +21,11 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
+    "inngest-cli": "^1.53.0",
     "tailwindcss": "4.3.3",
     "typescript": "^5"
+  },
+  "allowScripts": {
+    "inngest-cli@1.53.0": true
   }
 }
