@@ -1,13 +1,8 @@
 
 ## Screenshots
-
-### Application Dashboard
+### AI Agent Dashboard
 
 ![AI Agent Dashboard](./screenshots/dashboard.png)
-
-### Inngest Workflow Runs
-
-![Inngest Workflow Runs](./screenshots/workflow-runs.png)
 
 
 # AI Agent Workflow Dashboard
