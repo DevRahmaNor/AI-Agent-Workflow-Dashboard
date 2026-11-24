@@ -1,5 +1,6 @@
 
 ## Screenshots
+
 ### AI Agent Dashboard
 
 ![AI Agent Dashboard](./screenshots/dashboard.png)
