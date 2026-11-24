@@ -1,9 +1,10 @@
 
 ## Screenshots
 
+
 ### AI Agent Dashboard
 
-![AI Agent Dashboard](./screenshots/dashboard.png)
+![AI Agent Dashboard](./app/screenshots/dashboard.png)
 
 
 # AI Agent Workflow Dashboard
